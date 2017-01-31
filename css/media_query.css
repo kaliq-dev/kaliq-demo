@@ -1,0 +1,299 @@
+/*MY PC*/
+@media screen and (max-width: 1360px){
+    #result_box{
+        margin-left: 0px;
+    }
+    #cart{
+        float: left;
+    }
+    #cart_pill{
+        width:150px;
+    }   
+    #cart_pill > a{
+        padding-left: 50px;
+    }
+
+    #hotline_thumb{
+        width: 150px;
+    }
+    #user_icon{
+        width: 80px;
+    }
+
+    #delivery_thumb{
+        width: 151px;
+    }
+
+    #return_thumb{
+        width: 151px;
+    }
+
+    #cash_thumb{
+        width: 150px;
+    }
+
+    #track_thumb{
+        width: 154px;
+    }
+    #track_pill{
+        text-align: -webkit-center;
+    }
+    #support_thumb{
+        width: 145px;
+    }
+
+    #banner_box_left{
+        width: 130px;
+        margin-left: -30px;
+        margin-top: 230px;
+    }
+    #banner_box_left img{
+        width: 30px;
+    }
+
+    #banner_box_right{
+        width: 130px;
+        margin-left: -20px;
+    }
+    #similar_product_slider{
+        width:80%;
+    }
+    #similar_product_box{
+        margin-top: 100px;
+    }
+
+    #product_box{
+        height: 250px;
+    }
+    .nav-pills>li{
+        width: 145px;
+        font-size: 9px;
+
+    }
+    .nav-pills{
+      margin-left: -10px;
+  }
+  #option_panel{
+    margin-left: 0px;
+}
+
+.navbar-nav > li{
+    margin-left: -15px;
+}
+#kaliq_logo_box a img{
+    width: 80px;
+}
+#main_section{
+    margin-top: 150px;
+}
+#banner_box_right_help{
+    margin-top: 380px;
+    margin-left: 10px;
+}
+#banner_box_right_help img{
+    width: 80px;
+}
+#helpModal{
+    margin-top: 200px;
+}
+#cart_counter{
+    padding-right: 0px;
+}
+
+}
+
+/*MY LAPTOP*/
+@media screen and (max-width: 1250px) {
+    #left_icon {
+        padding-right: 30px;
+    }
+    #right_icon {
+        padding-left: 30px
+    }
+    .nav-pills>li>a {
+        padding: 10px 9px;
+    }
+    .nav {
+        margin-left: -50px;
+    }
+    #hotline_thumb {
+        width: 167px;
+    }
+    #delivery_thumb {
+        width: 133px
+    }
+    #return_thumb {
+        width: 105px
+    }
+    #cash_thumb {
+        width: 130px
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .nav-pills {
+        display: none;
+    }
+    #right_icon {
+        margin-left: 0%;
+        margin-top: -90px;
+    }
+    #search_box {
+        margin-left: 130px;
+    }
+    .modal-content {
+        height: 900px !important;
+    }
+    #already_with_us_block {
+        margin-top: 50px !important;
+    }
+    #icon_box{
+        border: none;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    #left_icon {
+        margin-right: -16%;
+    }
+    #right_icon {
+        margin-left: -20%;
+    }
+    #search_box {
+        margin-left: 20px;
+    }
+    #icon_box{
+        border: none
+    }
+}
+
+
+/*client PC*/
+@media screen and (min-width: 1900px){
+   #product_box{
+    height: 250px;
+}
+.nav-pills>li{
+    width: 230px;
+
+}
+.nav-pills{ 
+    margin-left: -70px;
+}
+.nav-pills>li>a{
+    text-align: -webkit-center;
+}
+
+#hotline_thumb{
+    width: 100%;
+}
+#delivery_thumb {
+    width: 102%;
+}
+#return_thumb {
+    width: 102%;
+}
+#cash_thumb {
+    width: 102%;
+}
+#track_thumb {
+    width: 102%;
+}
+#support_thumb {
+    width: 100%;
+}
+#cart{
+    float: left;
+}
+#cart_pill{
+    width:80px;
+}   
+#cart_pill > a{
+    padding-left: 50px;
+}
+#nav_parent{
+    width: 77%;
+    margin-left: -45px;
+
+}
+#left_icon{
+    margin-left: 100px;
+}
+
+#right_icon{
+    margin-top: -6px;
+    margin-left: 55px;
+}
+.navbar-nav>li>a{
+    padding-right: 30px;
+    font-size: larger;
+}
+
+.col-lg-2,
+.col-md-2{
+    width: 300px;
+}
+
+#banner_box_left{
+    width: 180px;
+    margin-left: -30px;
+}
+
+#banner_box_right{
+    width: 180px;
+    margin-left: -25px;
+}
+
+#search_result{
+    width: 612px;
+    margin-left: -70px;
+}
+
+.thumbnail > .caption > p > a{
+  /*  float: right;*/
+}
+.footer{
+    height:200px;
+}
+
+#similar_product_box{
+    margin-top: 170px;
+}
+
+#similar_product_slider{
+    margin-top: 30px;
+    width: 104%
+}
+
+#cart_no{
+ margin-right: 0px;
+}
+#search_box{
+    width: 615px;
+}
+.navbar-nav{
+    margin-left: 0px;
+}
+.navbar-default{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#kaliq_logo_box{
+ margin-left: -100px;
+}
+#search_bar{
+    margin-top: 25px;
+    margin-left: -70px;
+}
+#search_btn{
+    margin-top: 20px;
+    margin-left: -75px;
+}
+#banner_box_left{
+    margin-top: 600px;
+}
+#kaliq_logo{
+    width:100px;
+}
+}
